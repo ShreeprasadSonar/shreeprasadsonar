@@ -1,4 +1,5 @@
 # Shreeprasad Sonar
+![Profile views](https://gpvc.arturio.dev/shreeprasadsonar)
 
 Hi, I'm Shreeprasad Sonar. I'm a Computer Science Graduate Student at UT Dallas.
 
@@ -11,14 +12,6 @@ Hi, I'm Shreeprasad Sonar. I'm a Computer Science Graduate Student at UT Dallas.
 ## My contributions
 
 ![Snake animation](https://github.com/ShreeprasadSonar/shreeprasadsonar/blob/main/github-contribution-grid-snake.svg)
-
-## More statistics
-
-![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=shreeprasadsonar)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=shreeprasadsonar)
-
-![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreeprasadsonar&theme=github_dark)
 
 ## Languages I have used
 
@@ -54,4 +47,14 @@ Hi, I'm Shreeprasad Sonar. I'm a Computer Science Graduate Student at UT Dallas.
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00BFFF?style=flat&logo=servicenow&logoColor=white)
 
-![Profile views](https://gpvc.arturio.dev/shreeprasadsonar)
+## More statistics
+
+![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=shreeprasadsonar)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=shreeprasadsonar)
+
+![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreeprasadsonar&theme=github_dark)
+
+[![Shree's GitHub | Languages Over Time](https://stats.quine.sh/Shree/languages-over-time?theme=light)](https://quine.sh)
+
+[![Shree's GitHub | Topics Over Time](https://stats.quine.sh/Shree/topics-over-time?theme=light)](https://quine.sh)
