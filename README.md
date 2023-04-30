@@ -9,13 +9,12 @@ Hi, I'm Shreeprasad Sonar. I'm a Computer Science Graduate Student at UT Dallas.
 
 ### My contributions
 
-![Snake animation](https://github.com/shreeprasadsonar/shreeprasadsonar/blob/snake/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
 
 ### More statistics
 
 ![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=shreeprasadsonar)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=shreeprasadsonar)
-![Activity](https://activity-graph.herokuapp.com/graph?username=shreeprasadsonar&theme=github&count_private=true)
 ![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreeprasadsonar&theme=github_dark)
 
 ### 💻 Languages I have used
