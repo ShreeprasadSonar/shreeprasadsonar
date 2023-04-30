@@ -23,40 +23,35 @@ Hi, I'm Shreeprasad Sonar. I'm a Computer Science Graduate Student at UT Dallas.
 ### Languages I have used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/Typescript-blue)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Frameworks I have used
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/Typescript-blue)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 🗜 Some of the technologies I have worked with
+### Technologies I have worked with
 
+## Frameworks
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Photon](https://img.shields.io/badge/Photon-000000?style=flat&logo=photon&logoColor=white)
 
-![Eclipse](http://img.shields.io/badge/-Eclipse-333333?style=flat&logo=Eclipse)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=Microsoft%20SQL%20Server&logoColor=CC2927)
-![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=Jquery)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
-
-[![Shree's GitHub | Stats](https://stats.quine.sh/Shree/github?theme=dark)](https://quine.sh)
-[![Shree's GitHub | Languages Over Time](https://stats.quine.sh/Shree/languages-over-time?theme=dark)](https://quine.sh)
-[![Shree's GitHub | Topics Over Time](https://stats.quine.sh/Shree/topics-over-time?theme=dark)](https://quine.sh)
+## Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-00BFFF?style=flat&logo=servicenow&logoColor=white)
 
 ![Profile views](https://gpvc.arturio.dev/shreeprasadsonar)
