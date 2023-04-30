@@ -8,11 +8,11 @@ Hi, I'm Shreeprasad Sonar. I'm a Computer Science Graduate Student at UT Dallas.
 
 [🏆 My Resume](https://drive.google.com/drive/folders/19xcmxTInDzqf-WZRkBddTHN_ErLaN4gE?usp=sharing)
 
-### My contributions
+## My contributions
 
 ![Snake animation](https://github.com/ShreeprasadSonar/shreeprasadsonar/blob/main/github-contribution-grid-snake.svg)
 
-### More statistics
+## More statistics
 
 ![Contribution](https://github-readme-streak-stats.herokuapp.com/?user=shreeprasadsonar)
 
@@ -20,7 +20,7 @@ Hi, I'm Shreeprasad Sonar. I'm a Computer Science Graduate Student at UT Dallas.
 
 ![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreeprasadsonar&theme=github_dark)
 
-### Languages I have used
+## Languages I have used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -32,9 +32,9 @@ Hi, I'm Shreeprasad Sonar. I'm a Computer Science Graduate Student at UT Dallas.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 
-### Technologies I have worked with
+## Technologies I have worked with
 
-## Frameworks
+### Frameworks
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -43,7 +43,7 @@ Hi, I'm Shreeprasad Sonar. I'm a Computer Science Graduate Student at UT Dallas.
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Photon](https://img.shields.io/badge/Photon-000000?style=flat&logo=photon&logoColor=white)
 
-## Tools
+### Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
