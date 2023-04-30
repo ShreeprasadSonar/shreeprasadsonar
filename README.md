@@ -71,6 +71,9 @@ Hi, I'm Shreeprasad Sonar. I'm a Computer Science Graduate Student at UT Dallas.
 ![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
 ![Windows](http://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 
-[![shreeprasadsonar's GitHub stats](https://stats.quine.sh/shreeprasadsonar/github)](https://quine.sh/profile/shreeprasadsonar)
+
+[![Shree's GitHub | Stats](https://stats.quine.sh/Shree/github?theme=dark)](https://quine.sh)
+[![Shree's GitHub | Languages Over Time](https://stats.quine.sh/Shree/languages-over-time?theme=dark)](https://quine.sh)
+[![Shree's GitHub | Topics Over Time](https://stats.quine.sh/Shree/topics-over-time?theme=dark)](https://quine.sh)
 
 ![Profile views](https://gpvc.arturio.dev/shreeprasadsonar)
