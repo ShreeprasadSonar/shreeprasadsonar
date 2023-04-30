@@ -55,6 +55,6 @@ Hi, I'm Shreeprasad Sonar. I'm a Computer Science Graduate Student at UT Dallas.
 
 ![Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreeprasadsonar&theme=github_dark)
 
-[![Shree's GitHub | Languages Over Time](https://stats.quine.sh/Shree/languages-over-time?theme=light)](https://quine.sh)
+[![Shree's GitHub | Languages Over Time](https://stats.quine.sh/Shree/languages-over-time?theme=dark)](https://quine.sh)
 
-[![Shree's GitHub | Topics Over Time](https://stats.quine.sh/Shree/topics-over-time?theme=light)](https://quine.sh)
+[![Shree's GitHub | Topics Over Time](https://stats.quine.sh/Shree/topics-over-time?theme=dark)](https://quine.sh)
