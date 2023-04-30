@@ -10,7 +10,7 @@ Hi, I'm Shreeprasad Sonar. I'm a Computer Science Graduate Student at UT Dallas.
 
 ### My contributions
 
-![Snake animation](https://github.com/matteobaccan/matteobaccan/blob/snake/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ShreeprasadSonar/shreeprasadsonar/blob/main/github-contribution-grid-snake.svg)
 
 ### More statistics
 
