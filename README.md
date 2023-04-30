@@ -24,7 +24,7 @@ Hi, I'm Shreeprasad Sonar. I'm a Computer Science Graduate Student at UT Dallas.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Typescript]
+![Typescript](https://img.shields.io/badge/Typescript-blue)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
