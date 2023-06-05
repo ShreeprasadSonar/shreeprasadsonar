@@ -4,7 +4,6 @@
 Hi, I'm Shreeprasad Sonar, Computer Science Graduate Student at UT Dallas.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreeprasadsonar/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baashree/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreeprasadofficial@gmail.com)
 
 [🏆 My Resume](https://drive.google.com/drive/folders/19xcmxTInDzqf-WZRkBddTHN_ErLaN4gE?usp=sharing)
