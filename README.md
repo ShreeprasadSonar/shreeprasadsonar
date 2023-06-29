@@ -1,5 +1,5 @@
 # Shreeprasad Sonar
-![Profile views](https://gpvc.arturio.dev/shreeprasadsonar)
+![Profile views](https://komarev.com/ghpvc/?username=ShreeprasadSonar)
 
 Hi, I'm Shreeprasad Sonar, Computer Science Graduate Student at UT Dallas.
 
