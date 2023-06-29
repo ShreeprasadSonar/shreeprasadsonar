@@ -6,7 +6,7 @@ Hi, I'm Shreeprasad Sonar, Computer Science Graduate Student at UT Dallas.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreeprasadsonar/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreeprasadofficial@gmail.com)
 
-[🏆 My Resume](https://drive.google.com/drive/folders/19xcmxTInDzqf-WZRkBddTHN_ErLaN4gE?usp=sharing)
+[🏆 My Resume](https://drive.google.com/drive/folders/1-VHnz1ol85wOCZdxDLG3TT6rxqSiy3Ro?usp=sharing)
 
 ## My contributions
 
