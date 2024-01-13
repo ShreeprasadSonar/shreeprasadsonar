@@ -1,7 +1,7 @@
 # Shreeprasad Sonar
 ![Profile views](https://komarev.com/ghpvc/?username=ShreeprasadSonar)
 
-Hi, I'm Shreeprasad Sonar, Computer Science Graduate Student at UT Dallas.
+Hi, I'm Shreeprasad Sonar, Computer Science Graduate Student at UT Dallas & FSD Advance Intern at FedEx Services.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreeprasadsonar/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreeprasadofficial@gmail.com)
